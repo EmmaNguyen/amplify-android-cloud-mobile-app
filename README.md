@@ -1,1 +1,0 @@
-# amplify-android-cloud-mobile-app
